@@ -1,0 +1,10 @@
+NXP Software Content Register
+
+Name: MR-B3RB Warehouse Explore & Object Recognition for AIM 2025
+Version: 1.0
+Outgoing License: SPDX-License-Identifier: Apache-2.0
+License File: LICENSE.txt
+Description: A ROS2 python package for Warehouse Explore for AIM 2025.
+Release location: https://github.com/NXPHoverGames/NXP_AIM_INDIA_2025
+Origin: Used ROS2 Humble framework to generate python based package.
+        Further modified this package as per the use case.
